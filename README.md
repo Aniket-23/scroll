@@ -10,3 +10,7 @@ Built a part of the header
 # for styles.css
 
 Added the CSS file for the project
+
+# for app.js
+
+Added the basic JavaScript boilerplate
